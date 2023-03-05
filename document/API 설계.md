@@ -1,0 +1,1 @@
+[API 설계](https://docs.google.com/spreadsheets/d/1KKjxtF64yAJjGPGohXqLwE9BRnHrNOpJGWMJ9ZUcL8U/edit?usp=sharing)
